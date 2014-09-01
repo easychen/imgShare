@@ -9,7 +9,7 @@ imgShare
 
 ## 预览图
 
-![img](http://newsget-img.stor.sinaapp.com/54044288e5e56.png)
+![img](a.png?raw=1)
 
 ## 使用方式
 
