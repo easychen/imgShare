@@ -1,0 +1,10 @@
+#imgshare_div
+{
+    position: absolute;
+    z-index: 99;
+    width:100px;
+    text-align: right;
+    display: block;
+    background-color: rgba( 255 , 255 ,255 , .9 );
+    padding:10px;
+}
